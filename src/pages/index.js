@@ -23,7 +23,7 @@ const IndexPage = () => (
       </blockquote>
     </div>
     <p>Posted April 09, 2011</p>
-    <Link to="/page-2/">Go to page 2</Link>
+    <Link to="/about/">Go to About</Link>
   </div>
 )
 
